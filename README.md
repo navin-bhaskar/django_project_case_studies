@@ -9,8 +9,8 @@ Implements post and get end points to add a new blog post and fetch all entries.
 
 Make a post like so with title, description and created_by (all strings)
 
-![alt text](mini_blog/doc_images/post.PNG)
+![alt text](doc_images/post.PNG)
 
 to GET all post perform GET
 
-![alt text](image-1.png)
+![alt text](doc_images/get.PNG)
